@@ -43,18 +43,7 @@ Key fields/columns include (examples):
 - Outliers and extreme values were examined and filtered where necessary  
 
 ### Visualizations  
-Below are the **three key visualizations** that were generated (same ones used in the slides and notebook):
 
-1. **Trend of aviation accidents over years**  
-   ![Accidents over Time](path/to/visualization1.png)  
-
-2. **Accident counts by region or country (map or bar chart)**  
-   ![Accidents by Region](path/to/visualization2.png)  
-
-3. **Factor-driven analysis (e.g. accidents by aircraft type vs fatalities)**  
-   ![Aircraft Type vs Fatalities](path/to/visualization3.png)  
-
-*Note: Insert the actual images (exported from your notebook/slides) into the repo and reference their paths above.*
 
 ---
 
