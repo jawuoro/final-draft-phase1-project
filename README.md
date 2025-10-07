@@ -78,9 +78,7 @@ These insights can inform regulatory focus, airline operational risk strategies,
 
 ---
 
-## License & Attribution  
-You may include a license (e.g. MIT, CC-BY) depending on your preference.  
-Also acknowledge the original data source (if it’s from a public agency, etc.).
+
 
 ---
 
